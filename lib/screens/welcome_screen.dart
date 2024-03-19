@@ -30,9 +30,9 @@ class WelcomeScreen extends StatelessWidget {
                   text: const TextSpan(
                     children: [
                       TextSpan(
-                          text: 'Welcome!\n',
+                          text: 'ECMA!\n',
                           style: TextStyle(
-                            fontSize: 45.0,
+                            fontSize: 50.0,
                             fontWeight: FontWeight.w600,
                           )),
                       TextSpan(
@@ -40,7 +40,8 @@ class WelcomeScreen extends StatelessWidget {
                               'Exam Checker Mobile App: Your exam management made easy.',
                           style: TextStyle(
                             fontSize: 20,
-                          ))
+                          ),
+                        ),
                     ],
                   ),
                 )),
@@ -63,7 +64,7 @@ class WelcomeScreen extends StatelessWidget {
                     buttonText: 'Sign up',
                     onTap: SignUpScreen(),
                     color: Colors.white,
-                    textColor: Colors.red,
+                    textColor: Color.fromARGB(255, 0, 0, 0),
                   )),
                 ],
               ),

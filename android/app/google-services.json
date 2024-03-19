@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032814495603",
+    "project_id": "omr-thesis",
+    "storage_bucket": "omr-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032814495603:android:d7be3a13f9e749046fa706",
+        "android_client_info": {
+          "package_name": "com.example.omr_thesis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCpD_yvzTvdlh_JXDF1v_KxYoqI3NELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
